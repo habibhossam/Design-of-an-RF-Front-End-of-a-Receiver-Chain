@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sun May 19 09:55:04 2024 
+Best design point: 1
+Design specs: 
+	CND_RF_Final:Mixer_tb:1	corner	Nominal - 
+	compressionCurves		Error	No
+	Input Referred 1dB Compression Point		Error	No
+Design parameters: 
+	LO		300m
+	Pin		0
+
+Interactive.1
+Number of points completed: 1
+Number of simulation errors: 2
+Interactive.1 completed. 
+Current time: Sun May 19 09:57:52 2024 

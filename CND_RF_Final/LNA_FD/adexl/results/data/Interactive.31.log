@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sun May 19 14:18:34 2024 
+Best design point: 1
+Design specs: 
+	CND_RF_Final:LNA_FD:1	corner	Nominal - 
+	Input Referred IP3 Point		2.952
+Design parameters: 
+	Pin		0
+
+Interactive.31
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.31 completed. 
+Current time: Sun May 19 14:18:44 2024 

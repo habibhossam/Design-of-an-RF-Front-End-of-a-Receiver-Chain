@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Tue May 21 03:11:38 2024 
+Best design point: 1
+Design specs: 
+	CND_RF_Final:Chain:1	corner	Nominal - 
+Design parameters: 
+	LO		300m
+	Pin		0
+
+Interactive.18
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.18 completed. 
+Current time: Tue May 21 03:25:47 2024 

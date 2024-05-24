@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Wed May 15 06:47:01 2024 
+Best design point: 1
+Design specs: 
+	CND_RF_Final:mosfet_chs:1	corner	Nominal - 
+Design parameters: 
+	vgs		550m
+
+Interactive.2
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.2 completed. 
+Current time: Wed May 15 06:47:02 2024 

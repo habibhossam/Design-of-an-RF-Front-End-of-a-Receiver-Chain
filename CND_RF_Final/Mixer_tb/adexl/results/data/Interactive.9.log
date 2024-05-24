@@ -1,0 +1,16 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon May 20 19:01:14 2024 
+Best design point: 1
+Design specs: 
+	CND_RF_Final:Mixer_tb:1	corner	Nominal - 
+	Input Referred IP3 Point		-1.432
+Design parameters: 
+	LO		300m
+	Pin		0
+
+Interactive.9
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.9 completed. 
+Current time: Mon May 20 19:03:52 2024 
